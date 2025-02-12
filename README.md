@@ -1,16 +1,23 @@
-### Helloo! I'm Ivan also known as iardo over the online space.
+```
+Ivan Ramos || Iardo ✨
 
-I'm a Software Developer born and rooted in Panamá, enthusiastic about game development, 3D modeling/sculpting, shaders, and a bunch of other stuff ✨.
+I'm a Software Developer born and rooted in Panamá.
 
-Always striving to be get better, I have a lot of interest in learning more about "low-level" concepts, like code optimization and compilers.
+Enthusiastic about:
+ - Modeling/Sculpting (3D)
+ - Game Development
+ - Computer Shaders
+ - Compilers
 
-At the moment I'm learning C, Rust and <a href="https://threejs.org/">three.js</a>... sweet stuff.
-
-Here's a photo of my split keyboard btw, is a `iris-rev6` pre-build by keebio.
+I love split keyboards.
+Here's a photo of my `iris-rev6` pre-build by keebio. RIP 💀
+```
 
 ![alt text](https://github.com/iardo/iardo/blob/master/.gitresources/iris-v6-keebio.jpg?raw=true)
 
-...you guess it I like mechanical keyboards too 😊
-![alt text](https://github.com/iardo/iardo/blob/master/.gitresources/mechanical-keyboard-switch-draw.jpg?raw=true)
+```
+Thanks for stopping by my profile 👋
 
-Thanks for stopping by my profile.
+Contact:
+email: iardoru@gmail.com
+```
