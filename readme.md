@@ -13,7 +13,7 @@ I love split keyboards.
 Here's a photo of my `iris-rev6` pre-build by keebio. RIP 💀
 ```
 
-![alt text](https://github.com/iardo/iardo/blob/master/.gitresources/iris-v6-keebio.jpg?raw=true)
+![iris-r6](./.gitresources/iris-v6-keebio.jpg?raw=true)
 
 ```
 Thanks for stopping by my profile 👋
